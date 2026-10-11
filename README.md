@@ -1,5 +1,15 @@
 # Calm Computing
 
+
+## The Abundance Book v5.0 (11 October 2026)
+
+Edition 5.0 Unified is the current product and engineering specification. It supersedes edition 4.0 (8 October 2026). Private internal edition.
+
+- [PDF (authoritative, 193 pages)](https://github.com/Ve-Browser/ve-super-intelligence/blob/omega3/docs/abundance-book/THE-ABUNDANCE-BOOK-v5.0-UNIFIED-2026-10-11.pdf)
+- [Text version, page-marked](https://github.com/Ve-Browser/ve-super-intelligence/blob/omega3/docs/abundance-book/THE-ABUNDANCE-BOOK-v5.0-UNIFIED-2026-10-11.md)
+
+Required before work: the opening through Part I (chapters 1–5, including the product constitution). Then the parts that apply to this repository. Leads and integration owners read all of it.
+
 *A manifesto for what we are building at [Ve](https://ve.ai) — the intent company.*
 
 ---
